@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>手握日月摘星辰，世间无我这般人</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://sshug.cn/"/>
+  <updated>2020-03-14T13:12:10.955Z</updated>
+  <id>http://sshug.cn/</id>
+  
+  <author>
+    <name>Ricardo Geek</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>microk8s</title>
+    <link href="http://sshug.cn/2020/03/14/microk8s/"/>
+    <id>http://sshug.cn/2020/03/14/microk8s/</id>
+    <published>2020-03-14T12:45:27.000Z</published>
+    <updated>2020-03-14T13:12:10.955Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;0x01-环境&quot;&gt;&lt;a href=&quot;#0x01-环境&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>数字逻辑学习</title>
+    <link href="http://sshug.cn/2020/03/07/digital-logic-study/"/>
+    <id>http://sshug.cn/2020/03/07/digital-logic-study/</id>
+    <published>2020-03-07T12:21:56.000Z</published>
+    <updated>2020-03-16T03:18:33.870Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;1-进制转换&quot;&gt;&lt;a href=&quot;#1-进制转换&quot; class=&quot;headerlink&quot; title=&quot;1.进制转换&quot;&gt;&lt;/a&gt;1.进制转换&lt;/h1&gt;&lt;h1 id=&quot;2-进制转换&quot;&gt;&lt;a href=&quot;#2-进制转换&quot; class=&quot;headerlink&quot; title=&quot;2.进制转换&quot;&gt;&lt;/a&gt;2.进制转换&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;十进制整数部分转其他进制，除N取余，倒序（从下到上）&lt;/li&gt;
+&lt;li&gt;小数部分，乘N取整数部分，再用小数部分乘，从上到下
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>tkinter中Toplevel鼠标点击移动的方法</title>
+    <link href="http://sshug.cn/2020/03/04/tkinter-move/"/>
+    <id>http://sshug.cn/2020/03/04/tkinter-move/</id>
+    <published>2020-03-04T13:47:03.000Z</published>
+    <updated>2020-03-09T03:27:22.476Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;解决办法：&quot;&gt;&lt;a href=&quot;#解决办法：&quot; class=&quot;headerlink&quot; title=&quot;解决办法：&quot;&gt;&lt;/a&gt;解决办法：&lt;/h3&gt;&lt;p&gt;在鼠标按下时记录鼠标的位置和窗口的位置&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="tkinter" scheme="http://sshug.cn/tags/tkinter/"/>
+    
+  </entry>
+  
+</feed>
